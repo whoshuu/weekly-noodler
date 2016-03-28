@@ -57,4 +57,4 @@ What happens when you crunch these numbers vertically? One can imagine you might
     3
 ```
 
-The numbers between two edges vanish because they don't define any edges themselves. This is precisely the folding subsequence of maximum length 9 given in the problem statement. The problem is reduced to finding the edges that are furthest away from each other, and removing the stuff in between. Here's a [sample implementation](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/folding-subsequence/folding-subsequence.cpp.
+The numbers between two edges vanish because they don't define any edges themselves. This is precisely the folding subsequence of maximum length 9 given in the problem statement. The problem is reduced to finding the edges that are furthest away from each other, and removing the stuff in between. Here's a [sample implementation](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/folding-subsequence/folding-subsequence.cpp).
