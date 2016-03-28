@@ -4,7 +4,7 @@ Every week I'll be posting a small exercise here for you to noodle on. These pro
 
 ## Problems
 
-* [Noodler #1 - Folding Subsequence](https://github.com/whoshuu/weekly-noodler/blob/master/folding-subsequence.md)
+* [Noodler #1 - Folding Subsequence](https://github.com/whoshuu/weekly-noodler/blob/master/folding-subsequence.md) [[Solution](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/folding-subsequence/solution.md)]
 
 ## Got Issues?
 
