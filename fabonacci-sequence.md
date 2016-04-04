@@ -44,7 +44,7 @@ fib(4)-----fib(3)-----fib(2)-----fib(1)
 which means the Fabonacci Sequence (remembering that we ignore `i = 0`) for `n = 4` is:
 
 ```
-3, 2, 1
+3, 2, 1, 1
 ```
 
 More specifically:
@@ -53,6 +53,7 @@ More specifically:
 fab(1, 4) = 3
 fab(2, 4) = 2
 fab(3, 4) = 1
+fab(4, 4) = 1
 ```
 
 Fabonacci, delighted by his discovery, scrambled to write down his algorithm but did not have space in the margins of one of his books for what was, in his estimation, a 1 million LoC program.
