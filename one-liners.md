@@ -76,7 +76,3 @@ def puns(a, b, c):
 
 print puns(1, 2, 3)
 ```
-
-
-
-
