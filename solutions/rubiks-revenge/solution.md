@@ -8,7 +8,7 @@ There are two relevant operations that need to be performed on the cube.
 
 The first operation is a clockwise rotation of the front face on the cube. Imagine a cube in front of you, this rotation does only two things:
 
-1. The front face colors are shifted 90 degrees to the left.
+1. The front face colors are shifted 90 degrees to the right.
 2. Each other face besides the front and back ones lose three colors to the face in the clockwise direction and gain three colors from the face in the counter clockwise direction.
 
 and that's it. Note that the back face is totally unchanged -- this would be a good unit test to write if you take the test driven development route.
