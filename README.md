@@ -9,6 +9,7 @@ Every week I'll be posting a small exercise here for you to noodle on. These pro
 * [Noodler #3 - Breaking Change](https://github.com/whoshuu/weekly-noodler/blob/master/breaking-change.md) [[Solution](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/breaking-change/solution.md)]
 * [Noodler #4 - Rubik's Revenge](https://github.com/whoshuu/weekly-noodler/blob/master/rubiks-revenge.md) [[Solution](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/rubiks-revenge/solution.md)]
 * [Noodler #5 - One-liners](https://github.com/whoshuu/weekly-noodler/blob/master/one-liners.md) [[Solution A](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/one-liners/one-liners-yuki.py)] [[Solution B](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/one-liners/one-liners-ann.py)]
+* [Noodler #6 - Alphabet Sudoku](https://github.com/whoshuu/weekly-noodler/blob/master/alphabet-sudoku.md)
 
 ## Got Issues?
 
