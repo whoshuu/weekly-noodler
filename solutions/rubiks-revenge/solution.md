@@ -21,6 +21,6 @@ The second operation is turning the entire cube to the left. If you define a fac
 
 Since this operation doesn't change the **relative** positioning of each face and color, this actually doesn't count as a move.
 
-Everytime you perform these two operations, you tick up a counter for number of moves just once, and check if the cube is solved. Simply continuing until this process is complete gives us the final answer: it takes 1260 moves to return the cube to the solved position! Assuming a generous constant time of 1 second per move, this would have taken us 21 minutes to do!
+Everytime you perform these two operations, you tick up a counter for number of moves just once, and check if the cube is solved. Simply continuing until this process is complete gives us the final answer: it takes 1260 moves to return the cube to the solved position! Assuming a generous constant time of 1 second per move, this would have taken us 21 minutes to do! You can see the full implementation [here](https://github.com/whoshuu/weekly-noodler/tree/master/solutions/rubiks-revenge/rubiks-revenge.cpp).
 
 Bonus: A 4x4x4 cube would have taken the same number of moves to complete the algorithm. In fact, such a cube is exactly identical to a 3x3x3 cube as long as the middle is never twisted.
